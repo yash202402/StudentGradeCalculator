@@ -1,0 +1,34 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="Eslint" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <list>
+          <option value="python-dotenv" />
+          <option value="requests" />
+          <option value="httpx" />
+          <option value="pandas" />
+          <option value="boto3" />
+          <option value="openai" />
+          <option value="anthropic" />
+          <option value="langchain" />
+          <option value="langchain-core" />
+          <option value="langchain-anthropic" />
+          <option value="langchain-community" />
+          <option value="pydantic" />
+          <option value="psycopg2-binary" />
+          <option value="asyncpg" />
+          <option value="asyncio-throttle" />
+          <option value="fastapi" />
+          <option value="uvicorn" />
+          <option value="sse-starlette" />
+          <option value="faker" />
+          <option value="numpy" />
+          <option value="jupyter" />
+          <option value="ipykernel" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
